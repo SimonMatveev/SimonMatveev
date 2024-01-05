@@ -26,7 +26,7 @@
 
 ## Feel free to contact me
 
-* Telegram @SimonMatveev
-* Twitter @SimonMatveev1
+* Telegram [@SimonMatveev](https://t.me/SimonMatveev)
+* Twitter [@SimonMatveev1](https://twitter.com/SimonMatveev1)
 
 
