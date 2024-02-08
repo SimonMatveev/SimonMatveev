@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you!</h1>
+a<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you!</h1>
 
 <p>I'm Gleb, web-developer from <img src="https://www.svgrepo.com/show/401732/flag-for-russia.svg" width="13"/> <b>Moscow, Russia</b></p>
 
@@ -17,6 +17,8 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-0b214a?style=flat-square&logo=Docker&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-0ea5e9?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 <p>✏️ Currently learning:</p>
 <p>
