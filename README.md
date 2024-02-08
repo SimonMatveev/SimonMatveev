@@ -27,7 +27,8 @@
 
 <details>
   <summary><h3>GitHub Stats</h3></summary>
-   <img src="https://github-readme-stats.vercel.app/api?username=SimonMatveev&show_icons=true&count_private=true" alt="spiderpig86" />
+   <img src="https://github-readme-stats.vercel.app/api?username=SimonMatveev&show_icons=true&count_private=true" alt="SimonMatveev" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SimonMatveev&show_icons=true&locale=en&layout=compact" alt="SimonMatveev" />
 </details>
 
 ## Feel free to contact me
